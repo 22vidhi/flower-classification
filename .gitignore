@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# ML models
+*.h5
+*.pt
+*.keras
+*.ckpt
+
+# Datasets & outputs
+data/
+dataset/
+runs/
+logs/
+
+# OS
+.DS_Store
