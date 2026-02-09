@@ -54,7 +54,7 @@ flower-project/
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/flower-project.git
+https://github.com/22vidhi/flower-classification/tree/main
 cd flower-project
 
 2️⃣ Create virtual environment (optional but recommended)
